@@ -4,5 +4,5 @@ Propósito de criar uma tela de login e cadastro.
 
 Ferramentas:
 - HTML5
-- CSS
+- CSS3
 - Javascript
